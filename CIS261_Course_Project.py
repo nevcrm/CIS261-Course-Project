@@ -1,7 +1,7 @@
 
 #// Name: Marcus Bracken
 #// Course: CIS261 Object Oriented Computer Programming I
-#: Lab: Course Project Phase 1: Create and Call Functions with Parameters
+#: Lab: Course Project Phase 2: Using Lists and Dictionaries to Store and Retrieve Data
 
 from datetime import datetime
 
